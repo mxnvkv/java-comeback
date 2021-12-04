@@ -2,6 +2,7 @@ package com.java_comeback.getting_started_programming_in_java;
 
 public class Variables {
   public static void main(String[] args) {
+
     // variables assigned with final cannot be modified
     final int maxStudents = 25;
 
@@ -10,5 +11,6 @@ public class Variables {
     final int someVariable;
     int someOtherVariable = 100;
     someVariable = someOtherVariable;
+
   }
 }
