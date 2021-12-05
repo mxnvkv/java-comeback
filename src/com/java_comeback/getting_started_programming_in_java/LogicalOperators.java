@@ -6,6 +6,7 @@ public class LogicalOperators {
     boolean trueValue = true;
     boolean falseValue = false;
 
+
     // *** Logical operators ***
 
     if (trueValue & trueValue) {
@@ -29,6 +30,7 @@ public class LogicalOperators {
     if (!falseValue) {
       System.out.println("!");
     }
+
 
     // *** Conditional logical operators ***
 

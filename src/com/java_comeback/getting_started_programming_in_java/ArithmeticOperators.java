@@ -12,6 +12,7 @@ public class ArithmeticOperators {
     System.out.println(someOtherValue++); // 5
     System.out.println(someOtherValue);   // 6
 
+
     // *** Compounding operators ***
     int myOtherValue = 100;
     int val1 = 5;

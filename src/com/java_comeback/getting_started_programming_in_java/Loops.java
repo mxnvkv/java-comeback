@@ -15,6 +15,7 @@ public class Loops {
 
     System.out.println(factorial); // 24
 
+
     // *** Do-while loop ***
 
     int iVal = 80;
@@ -26,11 +27,24 @@ public class Loops {
       System.out.println(iVal);
     } while (iVal < 25);
 
+
     // *** For loop ***
 
     for (int i = 1; i < 100; i *= 2) {
       System.out.println(i);
     }
+
+
+    // *** For-each loop ***
+
+    float[] theVals = { 10.0f, 20.0f, 15.0f };
+    float sum = 0.0f;
+
+    for (float currentValue : theVals) {
+      sum += currentValue;
+    }
+
+    System.out.println(sum);
 
   }
 }
