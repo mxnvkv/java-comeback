@@ -1,4 +1,4 @@
-package com.java_comeback.getting_started_programming_in_java;
+package com.java_comeback.getting_started_programming_in_java.variables_and_operators;
 
 public class ArithmeticOperators {
   public static void main(String[] args) {

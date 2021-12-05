@@ -1,4 +1,4 @@
-package com.java_comeback.getting_started_programming_in_java;
+package com.java_comeback.getting_started_programming_in_java.looping_and_arrays;
 
 public class Arrays {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.java_comeback.getting_started_programming_in_java;
+package com.java_comeback.getting_started_programming_in_java.conditional_logic;
 
 public class LogicalOperators {
   public static void main(String[] args) {
